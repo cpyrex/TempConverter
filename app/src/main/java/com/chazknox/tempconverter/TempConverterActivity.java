@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-// work please
+// work now
 public class TempConverterActivity extends ActionBarActivity {
 
     @Override
